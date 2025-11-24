@@ -44,7 +44,14 @@ The Hospital Management System is designed to streamline healthcare facility ope
 - Git
 - (Optional) MySQL for database features
 
-### Steps to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/hospital-management-system.git
+
+
+
+
+
+
+
+
+
+
+
